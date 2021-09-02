@@ -60,13 +60,13 @@
 # Tujuan dan Keuntungan 
 - Cloud Computing menyediakan usaha yang memerlukan dependensi infrastrukter menjadi non-infrastruktur
 - dengan infrastruktur Cloud kita bisa menyimpan dana lebih banyak
-- Clients bisa :
-   .memasukkan data pada platform daripada desktopnya sendiri
+- Clients bisa :<br>
+   .memasukkan data pada platform daripada desktopnya sendiri<br>
    .mereka bisa meletakan aplikasi pada cloud dan menggunakan server pada cloud untuk manipulasi dan proses data
 
 # Rangkuman :
 - Komputasi Cloud bisa disebut dengan Internet based development and Service
-- Jumlah karakteristik mendefinisikan data cloud, contohnya:
-  .Remotely Hosted : Service atau data yang di host pada remote server
-  .Ubiquitous : Servis atau data yang ada darimana saja
+- Jumlah karakteristik mendefinisikan data cloud, contohnya:<br>
+  .Remotely Hosted : Service atau data yang di host pada remote server<br>
+  .Ubiquitous : Servis atau data yang ada darimana saja<br>
   .Commodified :Hasil model komputasi utilitas mirip dengan tradisional dari utilitas tradisional, layaknya gas dan listrik  
