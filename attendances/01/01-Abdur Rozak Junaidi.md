@@ -4,4 +4,4 @@ Rangkuman pada pertemuan hari ini membahas tentang cloud computing, cloud comput
 Selain itu juga terdapat 3 model layanan cloud yaitu:
 - Jenis Layanan Cloud Computing: Infrastructure as a Service (IaaS)
 - Model Layanan Cloud Computing: Platform as a Service (PaaS)
-- Jenis Layanan Cloud Computing: Software as a Service (SaaS)
+- Jenis Layanan Cloud Computing: Software as a Service (SaaS) 
