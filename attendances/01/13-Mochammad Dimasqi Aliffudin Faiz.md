@@ -1,0 +1,3 @@
+Kesimpulan dari mata perkuliahan tadi, banyak yang kita ketahui perbedaan Computing Layers Seperti Application Service, Application Platform, Server Platform, dan Storage Platform. 
+dan lebih enaknya Cloud Server bisa diakses dimanapun saja jika kita memiliki aksesnya, dan  tidak enaknya service yang ingin kita gunakan itu terbatas jika kita ingin memenuhi fitur 
+kita harus membayar untuk menggunakan fitur yang ingin kita gunakan.
