@@ -1,0 +1,36 @@
+Secara umum layanan cloud computing dapat dikategorikan menjadi 3 yaitu  SaaS , PaaS dan IaaS
+
+OCI (Oracle Cloud Infrastructure) meliputi 5 hal yaitu
+1. Compute
+
+OCI Compute Service (Layanan Komputasi) terdiri dari 5 komponen yaitu bare metal, dedicated virtual
+host, virtual machines, container engine dan function. Semakin ke kanan maka semakin sedikit yang 
+perlu ditangani oleh pengguna. Sebaliknya semakin ke kiri maka semakin banyak yang akan yang
+ditangani atau diatur oleh pengguna
+
+2.Storage (Penyipanan) , Storage ini di bagi menjadi 2 model
+a.Storage Model
+Komputasi pada aplikasi membutuhkan penyimpanan dengan spesifikasi tertentu. Berikut adalah
+storage model OCI
+b.Storage Services (Layanan Penyimpanan) 
+Terdapat 5 layanan penyimpanan yang didukung oleh OCI yaitu block volume, local NVMW, file
+storage, object storage dan archive storage
+
+3.Networking
+Oracle VCN kepanjangan dari Virtual Cloud Network. VCN merupakan layanan Infrastructures as a
+Service (IaaS). VCN merupakan network yang dimiliki oleh VM anda . VCN memungkinkan
+pengguna untuk mengatur jaringan yang ada di lingkungan cloud
+
+4.Identity and Access Management (IAM)
+Selanjutnya, saya akan membahas OCI Identity and Access Management. Layanan OCI Identity and
+Access Management dapat disingkat IAM. IAM memungkinkan Anda mengontrol siapa yang
+memiliki akses ke sumber daya cloud yang Anda miliki, dan jenis akses apa yang mereka miliki, dan
+ke sumber daya tertentu. IAM policy adalah dokumen yang menentukan siapa dan bagaimana cara
+yang dapat digunakan untuk mengakses sumber daya.
+
+5.Database Cloud Service
+Selanjutnya, kita akan membahas Layanan Database OCI. Seperti yang telah kita bahas, Oracle
+adalah satu-satunya cloud publik yang mendukung sistem database VM, yang menawarkan
+penyediaan yang sangat cepat. OCI juga mendukung sistem database bare metal, yang memiliki
+performa sangat cepat.
+
