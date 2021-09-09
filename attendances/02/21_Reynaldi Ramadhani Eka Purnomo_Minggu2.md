@@ -10,4 +10,4 @@ OCI Core Service sendiri meliputi 5 hal yaitu
     IAM memungkinkan Anda mengontrol siapa yang 
     memiliki akses ke sumber daya cloud yang Anda miliki, dan jenis akses apa yang mereka miliki, dan ke sumber daya tertentu
 5.Database Cloud Service
-    Oracle adalah satu-satunya cloud publik yang mendukung sistem database VM, yang menawarkan penyediaan yang sangat cepat. OCI juga mendukung sistem database bare metal, yang memiliki performa sangat cepat.
+    Oracle adalah satu-satunya cloud publik yang mendukung sistem database VM, yang menawarkan penyediaan yang sangat cepat. OCI juga mendukung sistem database bare metal, yang memiliki performa sangat cepat
