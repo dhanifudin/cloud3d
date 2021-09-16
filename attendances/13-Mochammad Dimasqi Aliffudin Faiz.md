@@ -1,13 +1,10 @@
-PERTEMUAN 02
+PERTEMUAN 04
 
-Umumnya layanan cloud ini dibagi menjadi 3 yaitu: SaaS, PaaS, dan IaaS
-Layanan yang ditawarkan Cloud Computing ini khususnya Oracle Cloud Infrastruture (OCI), Kemudian OCI Core Services meliputi 5 hal yaitu:
-1. Compute : merupakan layanan komputasi ketika arahnya ke kanan maka semakin sedikit yang perlu ditangani oleh pengguna dan juga sebaliknya semakin ke kiri maka semakin banyak yang akan ditangani oleh pengguna, OCI Compute Service ini terdiri dari 5 komponen yaitu : Bare Metal, Dedicated Virtual Host, Virtual Machines, Container Engine dan Function
+infrastruktur oracle cloud memiliki 2 jenis instances, meliputi:
+1. Bare Metal : merupakan intances komputasi yang memberikan user akses ke server fisik khusus untuk kinerja tertinggi dan isolasi
 
-2. Storage : merupakan tempat penyimpanan data file, data backup dll, Terdapat 5 jenis layanan penyimpanan yaitu: Block Volume, Local NVMe, File Storage, Object Storage dan Archive Storage
+2. Virtual Machine : merupakan lingkungan komputasi independen secara virtual yang berjalan di atas perangkat keras fisik bare metal, yang dimana virtualisasinya memungkinkan menjalankan beberapa VM yang terisolasi sama lain.
 
-3. Networking : Merupakan layanan yang memungkinkan pengguna untuk mengatur jaringan yang ada di lingkungan cloud, seperti : mengatur IP Address, membuat Subnets, Tabel Route dan mengkonfigurasi Firewall
+OCI menawarkan beberbagai varian shapes, yang dimana shapes merupakan sebuah template yang menentukan kebutuhan CPU, volume memori, dan sumber daya lainnya.
 
-4. Identity & Access Management (IAM) : Merupakan layanan yang memungkinkan pengguna mengontrol siapa yang memiliki akses ke sumber daya cloud yang dimiliki, jenis akses apa yang pengguna lain miliki ke sumber daya tertentu.
-
-5. Database Cloud Service : Merupakan layanan penyedia database, seperti yang sudah diketahui oracle adalah satu-satunya cloud public yag mendukung sistem VM, yang menawarkan penyediaan yang sangat cepat
+ketika user membuat VM menggunakan flexible shape, yang mana pilihan jumlah OCPU dan volume memori yang dibutuhkan dapat disesuaikan.
